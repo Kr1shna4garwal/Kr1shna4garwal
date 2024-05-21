@@ -2,12 +2,20 @@
 
 ## Who Am I?
 
-Just A so called **Hacker; Researcher; And Penetration Tester 💻**
+Just A so called **Hacker; Researcher; Penetration Tester and a nullbyte enthusiast 💻**
 
 ## What Do I Do?
 
 - **Hacking**: Ethically, of course!
 - **Creating Chaos**: Because sometimes, the best way to fix things is to break them first. 🤷‍♂️
+
+## Certifications
+- eWPTxV2
+- CRTP
+- eJPTv2
+- ICCA
+- CAP
+- CNSP
 
 ## 🛠️
 
